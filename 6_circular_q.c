@@ -15,7 +15,7 @@ void main()
 	do
 	{
 	printf("\n\nMENU\n1.ENQUEUE\n2.DEQUEUE\n3.SEARCH\n4.DISPLAY\n5.EXIT\n");
-	printf("Enter yoir choice :");
+	printf("Enter your choice :");
 	scanf("%d",&ch);
 	switch(ch)
 	{
